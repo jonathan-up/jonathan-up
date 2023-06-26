@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🤔 I am just a student
-- 🌱 I’m currently learning Java, JavaScript, PHP...
+- 🌱 I’m currently learning Java, JavaScript, Golang...
 
 <!--
 **jonathan-up/jonathan-up** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
