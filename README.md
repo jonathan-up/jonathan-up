@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🤔 I am just a student
+- 🤔 H0meV for Counter-Strike
 - 🌱 I’m currently learning Java, JavaScript, Golang...
 
 <!--
