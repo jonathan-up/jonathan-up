@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🤔 H0meV for Counter-Strike
-- 🌱 I’m currently learning Java, JavaScript, Golang...
+- 🔫 H0meV for Counter-Strike
+- 🌱 I'm studying
 
 <!--
 **jonathan-up/jonathan-up** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
